@@ -1,0 +1,10 @@
+public Class EvenOrOdd{
+public static void main(String[]args){
+Test.CheckEvenOrOdd(10);
+
+
+
+
+}
+
+}
