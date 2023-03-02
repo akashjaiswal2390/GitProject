@@ -8,3 +8,16 @@ Test.CheckEvenOrOdd(10);
 }
 
 }
+
+Class Test{
+public static void CheckEvenOrOdd(int a){
+if(a%2==0){
+System.out.println(a+" is a even number");
+}else{
+System.out.println(a+" is a odd number");
+}
+
+}
+
+
+}
